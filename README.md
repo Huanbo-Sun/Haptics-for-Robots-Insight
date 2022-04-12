@@ -21,13 +21,22 @@ Each pixel in the force prediction map has three values that indicate the force 
 ### Mechanics
 #### Metal Skeleton
 - 3D Printer: [ExOne X1 25 Pro](https://www.exone.com/en-US/Resources/News/X1-25PRO)
-- Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
+- 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
 - Geometry Design: [Skeleton](Solidworks/Skeleton.SLDPRT)
 - Printing Service: [Shapeways](https://www.shapeways.com/)
 #### Elastomer
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
-- Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
-- Mold Design:
+- 3D Printing Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
+- Mold Design: 
+--[Mold 1](Solidworks/Elastomer_Mold1_In_Fingerprint_NailFlat.SLDPRT)
+--[Mold 2](Solidworks/Elastomer_Mold2_Out1.SLDPRT)
+--[Mold 3](Solidworks/Elastomer_Mold2_Out2.SLDPRT)
+- Elastomer Material:
+-- [EcoFlex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)
+-- [Aluminum Powder 65 Micrometer, 99% Pure](https://www.amazon.de/Aluminumpulver-Aluminium-Pulver-Alupulver-Zus%C3%A4tze/dp/B06WRTGP2Y)
+-- [Aluminum Flake 75 Micrometer](https://www.metallpulver24.de/de/aluminiumpulver-flaky-silber.html)
+- [Vacuum Chamber VP1100, 5 Pa](https://www.silikonfabrik.de/vakuumtechnik/komplettsysteme/vakuum-komplettsystem-vks27/vp1200-vakuumkammer-und-pumpe.html)
+      
 ### Imaging System
 #### Camera
 - [Maker Hawk Raspberry Pi Camera Module 8 MP (Raspberry Pi camera V.2.0)](https://www.amazon.co.uk/MakerHawk-Raspberry-Compatible-Supporting-Resolution/dp/B07HL3Q58Z)
