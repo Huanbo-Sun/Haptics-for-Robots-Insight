@@ -31,7 +31,7 @@ Four key design components make Insight work properly: the mechanical design of 
 ## Mechanics
 Our hybrid structure of a soft elastomer shell enclosing a stiff metal skeleton ensures high sensitivity and robustness. The soft elastomer is for detecting light contact with high sensitivity. The metal skeleton is for holding the elastomer’s global shape and sustaining high-impact forces.
 
-  <p align="center"><img src="Pics/Mechanics.png" width="614.75" height="375.25">
+  <p align="center"><img src="Pics/Mechanics.png" width="430.325" height="262.675">
 
 ### Elastomer
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
@@ -63,7 +63,7 @@ Our hybrid structure of a soft elastomer shell enclosing a stiff metal skeleton 
 ## Imaging System
 We use a LED ring and a collimator to create structured light. The structured light forms a light cone inside the enclosed volume. Each voxel inside this volume has a specific color code with 3D information. External contact moves the elastomer from one color zone to another. Together with shading effects the camera can detect 3D deformations of the surface from a single 2D image. As shown on the right figure, mimicking human fingerprint, we also add ridges to the surface to help the system recognize the directions of the surface extension.
 
-  <p align="center"><img src="Pics/Imaging.png" width="689" height="352">
+  <p align="center"><img src="Pics/Imaging.png" width="482.23" height="246.4">
     
 ### Camera
 - [Maker Hawk Raspberry Pi Camera Module 8 MP (Raspberry Pi camera V.2.0)](https://www.amazon.co.uk/MakerHawk-Raspberry-Compatible-Supporting-Resolution/dp/B07HL3Q58Z)
