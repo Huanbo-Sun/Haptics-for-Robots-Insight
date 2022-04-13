@@ -23,19 +23,19 @@ Insight constantly records images from inside using a camera. Feeding these imag
   
   <p align="center"><img src="Pics/DataFlow.png" width="472.125" height="222">
     
- **Key Components** It includes four major parts:
-     <p align="center"><img src="Pics/KeyComponents.png" width="811.5" height="402">
+
+    
+# Key Components
+  It includes four major parts:
+     <p align="center"><img src="Pics/KeyComponents.png" width="405.75" height="201">
        
-       
-# Hardware
-## Sensor
-### Mechanics
-#### Metal Skeleton
+## Mechanics
+### Metal Skeleton
 - 3D Printer: [ExOne X1 25 Pro](https://www.exone.com/en-US/Resources/News/X1-25PRO)
 - 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
 - Geometry Design: [Skeleton](Solidworks/Skeleton.SLDPRT)
 - Printing Service: [Shapeways](https://www.shapeways.com/)
-#### Elastomer
+### Elastomer
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
 - 3D Printing Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
 - Mold Design: 
