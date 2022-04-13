@@ -87,8 +87,8 @@ We use a LED ring and a collimator to create structured light. The structured li
 ## Testbed
 ### Linear Guide
 - [Linear Guide](https://www.barchmotion.com/)
-   - [Linear Guide Geometry](BarchMotionGeometry.png)
-   - [Linear Guide Order List](BarchMotionOrder.png)
+   - [Linear Guide Geometry](Pics/BarchMotionGeometry.png)
+   - [Linear Guide Order List](Pics/BarchMotionOrder.png)
 - [Arduino for Testbed]
    - [Arduino Micro](https://store.arduino.cc/products/arduino-micro)
    - [Arduino Code](Code/Testbed-Arduino.md)
