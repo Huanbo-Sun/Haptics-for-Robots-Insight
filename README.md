@@ -1,7 +1,16 @@
 # Insight: A Haptic Sensor Powered by Vision and Machine Learning
 This project shows the principle desing of [Insight](https://rdcu.be/cHCl9). It is a soft thumb-sized haptic sensor that can enbable robots feel directional force distributions all over a 3D conical surface.
 
-<p align="center"><img src="Pics/HumanThumb.png" width="364.53" height="400">
+The paper is titled "[A soft thumb-sized vision-based sensor with accurate all-round force perception](https://rdcu.be/cHCl9)", published at [Nature Machine Intelligence, 2022](https://rdcu.be/cHCl9). 
+
+<p align="center"><img src="Pics/HumanThumb.png" width="182.265" height="200">
+  
+This work was done by Huanbo Sun, Katherine J. Kuchenbecker, Georg Martius at the Max Planck Institute for Intelligent Systems.
+  
+If you make used of our work, please use the citation information below.
+  
+# Abstract
+Vision-based haptic sensors have emerged as a promising approach to robotic touch due to affordable high-resolution cameras and successful computer vision techniques; however, their physical design and the information they provide do not yet meet the requirements of real applications. We present a robust, soft, low-cost, vision-based, thumb-sized three-dimensional haptic sensor named Insight, which continually provides a directional force-distribution map over its entire conical sensing surface. Constructed around an internal monocular camera, the sensor has only a single layer of elastomer over-moulded on a stiff frame to guarantee sensitivity, robustness and soft contact. Furthermore, Insight uniquely combines photometric stereo and structured light using a collimator to detect the three-dimensional deformation of its easily replaceable flexible outer shell. The force information is inferred by a deep neural network that maps images to the spatial distribution of three-dimensional contact force (normal and shear). Insight has an overall spatial resolution of 0.4 mm, a force magnitude accuracy of around 0.03 N and a force direction accuracy of around five degrees over a range of 0.03–2 N for numerous distinct contacts with varying contact area. The presented hardware and software design concepts can be transferred to a wide variety of robot parts.
   
 **Hardware Design** Insight is a vision-based haptic sensor that uses a camera and a structured lighting system to detect external contact happened on a soft hollow elastomer.
   
