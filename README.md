@@ -1,7 +1,7 @@
 # Insight: A Haptic Sensor Powered by Vision and Machine Learning
 This project shows the principle desing of [Insight]https://www.youtube.com/watch?v=lTAJwcZopAA&t=3s). It is a soft thumb-sized haptic sensor that can enbable robots feel directional force distributions all over a 3D conical surface.
 
-The paper is titled "[A soft thumb-sized vision-based sensor with accurate all-round force perception](https://rdcu.be/cHCl9)", published at [Nature Machine Intelligence, 2022](https://rdcu.be/cHCl9). 
+The paper is titled "[A soft thumb-sized vision-based sensor with accurate all-round force perception](https://rdcu.be/cHCl9)", published at [*Nature Machine Intelligence*, 2022](https://rdcu.be/cHCl9). 
 
 <p align="center"><img src="Pics/HumanThumb.png" width="182.265" height="200">
   
