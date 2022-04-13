@@ -135,7 +135,7 @@ Please use the following citation if you make use of our work:
   month_numeric = {2}
   } 
 ```
-### RIS:
+### RIS
 ``` citation
 TY  - JOUR
 AU  - Sun, Huanbo
