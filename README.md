@@ -25,9 +25,14 @@ Insight constantly records images from inside using a camera. Feeding these imag
     
 # Key Components
 Four key design components make Insight work properly: the mechanical design of its shell, the tailored imaging system inside, automatic data collection, and cutting-edge deep learning are used behind the scenes to create a cheap, robust, and high-fidelity device.
-     <p align="center"><img src="Pics/KeyComponents.png" width="405.75" height="201">
+     
+  <p align="center"><img src="Pics/KeyComponents.png" width="405.75" height="201">
        
 ## Mechanics
+Our hybrid structure of a soft elastomer shell enclosing a stiff metal skeleton ensures high sensitivity and robustness. The soft elastomer is for detecting light contact with high sensitivity. The metal skeleton is for holding the elastomer’s global shape and sustaining high-impact forces.
+
+  <p align="center"><img src="Pics/Mechanics.png" width="614.75" height="375.25">
+
 ### Elastomer
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
 - 3D Printing Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
