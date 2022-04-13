@@ -23,18 +23,11 @@ Insight constantly records images from inside using a camera. Feeding these imag
   
   <p align="center"><img src="Pics/DataFlow.png" width="472.125" height="222">
     
-
-    
 # Key Components
   It includes four major parts:
      <p align="center"><img src="Pics/KeyComponents.png" width="405.75" height="201">
        
 ## Mechanics
-### Metal Skeleton
-- 3D Printer: [ExOne X1 25 Pro](https://www.exone.com/en-US/Resources/News/X1-25PRO)
-- 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
-- Geometry Design: [Skeleton](Solidworks/Skeleton.SLDPRT)
-- Printing Service: [Shapeways](https://www.shapeways.com/)
 ### Elastomer
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
 - 3D Printing Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
@@ -47,20 +40,28 @@ Insight constantly records images from inside using a camera. Feeding these imag
   - [Aluminum Powder 65 Micrometer, 99% Pure](https://www.amazon.de/Aluminumpulver-Aluminium-Pulver-Alupulver-Zus%C3%A4tze/dp/B06WRTGP2Y)
   - [Aluminum Flake 75 Micrometer](https://www.metallpulver24.de/de/aluminiumpulver-flaky-silber.html)
 - [Vacuum Chamber VP1100, 5 Pa](https://www.silikonfabrik.de/vakuumtechnik/komplettsysteme/vakuum-komplettsystem-vks27/vp1200-vakuumkammer-und-pumpe.html). *Note: The Pump is updated.*
+       
+### Metal Skeleton
+- 3D Printer: [ExOne X1 25 Pro](https://www.exone.com/en-US/Resources/News/X1-25PRO)
+- 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
+- Geometry Design: [Skeleton](Solidworks/Skeleton.SLDPRT)
+- Printing Service: [Shapeways](https://www.shapeways.com/)
       
-### Imaging System
-#### Camera
+## Imaging System
+### Camera
 - [Maker Hawk Raspberry Pi Camera Module 8 MP (Raspberry Pi camera V.2.0)](https://www.amazon.co.uk/MakerHawk-Raspberry-Compatible-Supporting-Resolution/dp/B07HL3Q58Z)
-- [DAQ: Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
-#### LED Ring
+
+### LED Ring
 - [Neopixel Ring with eight pieces of WS2812 5050](https://www.amazon.de/gp/product/B019ZL6724/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)       
-#### Collimator
+
+### Collimator
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
 - Material: [Standard Black](https://formlabs.com/de/shop/black-resin/)
 - Geometry Design: [Collimator](Solidworks/Collimator.SLDPRT)
-#### DAQ
-- Raspberry Pi:
-- Code:
+
+### DAQ
+- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
+- [Python Code runs in Raspberry Pi](Code/)
 
 ## Testbed
 ### Linear Guide
