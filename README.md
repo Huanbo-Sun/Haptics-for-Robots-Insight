@@ -67,7 +67,7 @@ Our hybrid structure of a soft elastomer shell enclosing a stiff metal skeleton 
 ## Imaging System
 We use a LED ring and a collimator to create structured light. The structured light forms a light cone inside the enclosed volume. Each voxel inside this volume has a specific color code with 3D information. External contact moves the elastomer from one color zone to another. Together with shading effects the camera can detect 3D deformations of the surface from a single 2D image. As shown on the right figure, mimicking human fingerprint, we also add ridges to the surface to help the system recognize the directions of the surface extension.
 
-  <p align="center"><img src="Pics/Imaging.png" width="482.23" height="246.4">
+  <p align="center"><img src="Pics/Imaging.png" width="337.561" height="249.375">
     
 ### Camera
 - [Maker Hawk Raspberry Pi Camera Module 8 MP (Raspberry Pi camera V.2.0)](https://www.amazon.co.uk/MakerHawk-Raspberry-Compatible-Supporting-Resolution/dp/B07HL3Q58Z)
@@ -85,6 +85,8 @@ We use a LED ring and a collimator to create structured light. The structured li
 - [Python Code Runs in Raspberry Pi](Code/Python-Rasberry.md)
 
 ## Testbed
+We design a test bed to stimulate the sensor in a controlled way, with both normal and shear forces, over the entire 3D sensing surface.
+   <p align="center"><img src="Pics/Testbed.png" width="715" height="246.4"> 
 ### Linear Guide for 3 DOF Translation
 - [Linear Guide](https://www.barchmotion.com/)
    - [Linear Guide Geometry](Pics/BarchMotionGeometry.png)
