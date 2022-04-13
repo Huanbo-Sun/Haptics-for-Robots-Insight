@@ -46,6 +46,14 @@ Insight constantly records images from inside using a camera. Feeding these imag
 - 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
 - Geometry Design: [Skeleton](Solidworks/Skeleton.SLDPRT)
 - Printing Service: [Shapeways](https://www.shapeways.com/)
+       
+### Connector and Supporter
+- 3D Printer: [ExOne X1 25 Pro](https://www.exone.com/en-US/Resources/News/X1-25PRO)
+- 3D Printing Material: [AlSi10Mg-0403 Alluminum Alloy](https://www.shapeways.com/materials/aluminum) *Note: The material is updated.*
+- Geometry Design: 
+  - [Connector](Solidworks/Connector.SLDPRT)
+  - [Supportor](Solidworks/Supporter.SLDPRT)
+- Printing Service: [Shapeways](https://www.shapeways.com/)
       
 ## Imaging System
 ### Camera
