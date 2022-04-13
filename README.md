@@ -85,13 +85,18 @@ We use a LED ring and a collimator to create structured light. The structured li
 - [Python Code Runs in Raspberry Pi](Code/Python-Rasberry.md)
 
 ## Testbed
-### Linear Guide
+### Linear Guide for 3 DOF Translation
 - [Linear Guide](https://www.barchmotion.com/)
    - [Linear Guide Geometry](Pics/BarchMotionGeometry.png)
    - [Linear Guide Order List](Pics/BarchMotionOrder.png)
-- [Arduino for Testbed]
+- [Power Supplier](https://www.boomaudio.de/mean-well-rsp-320-36-netzteil)
+   [RSp-320-36](https://www.boomaudio.de/mean-well-rsp-320-36-netzteil)
+- [Arduino for Testbed](https://store.arduino.cc/products/arduino-micro)
    - [Arduino Micro](https://store.arduino.cc/products/arduino-micro)
    - [Arduino Code](Code/Testbed-Arduino.md)
+### Motors for 2 DOF Rotation
+- [Dynamixel Mx28-AT](https://emanual.robotis.com/docs/en/dxl/mx/mx-28/)
+- [Dynamixel Mx64-AT](https://emanual.robotis.com/docs/en/dxl/mx/mx-64/)
 ### Force/Torque Sensor     
        
 # Software
