@@ -1,5 +1,5 @@
 # Insight: A Haptic Sensor Powered by Vision and Machine Learning
-<align="right">*This is the only official content release regarding the design of Insight.*
+<p align="right">*This is the only official content release regarding the design of Insight.*</p>
 
 This project shows the principle desing of [Insight](https://www.youtube.com/watch?v=lTAJwcZopAA&t=3s). It is a soft thumb-sized haptic sensor that can enbable robots feel directional force distributions all over a 3D conical surface.
 
