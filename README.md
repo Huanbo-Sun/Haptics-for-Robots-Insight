@@ -87,6 +87,7 @@ We use a LED ring and a collimator to create structured light. The structured li
 ## Testbed
 We design a test bed to stimulate the sensor in a controlled way, with both normal and shear forces, over the entire 3D sensing surface.
    <p align="center"><img src="Pics/Testbed.png" width="715" height="246.4"> 
+
 ### Linear Guide for 3 DOF Translation
 - [Linear Guide](https://www.barchmotion.com/)
    - [Linear Guide Geometry](Pics/BarchMotionGeometry.png)
