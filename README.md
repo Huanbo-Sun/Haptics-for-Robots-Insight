@@ -24,7 +24,7 @@ Insight constantly records images from inside using a camera. Feeding these imag
   <p align="center"><img src="Pics/DataFlow.png" width="472.125" height="222">
     
 # Key Components
-  It includes four major parts:
+Four key design components make Insight work properly: the mechanical design of its shell, the tailored imaging system inside, automatic data collection, and cutting-edge deep learning are used behind the scenes to create a cheap, robust, and high-fidelity device.
      <p align="center"><img src="Pics/KeyComponents.png" width="405.75" height="201">
        
 ## Mechanics
