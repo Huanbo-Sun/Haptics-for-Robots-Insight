@@ -86,6 +86,11 @@ We use a LED ring and a collimator to create structured light. The structured li
 
 ## Testbed
 ### Linear Guide
+- [Linear Guide](https://www.barchmotion.com/)
+   - [Linear Guide Geometry]() 
+- [Arduino for Testbed]
+   - [Arduino Micro](https://store.arduino.cc/products/arduino-micro)
+   - [Arduino Code](Code/Testbed-Arduino.md)
 ### Force/Torque Sensor     
        
 # Software
@@ -126,8 +131,7 @@ IS  - 2
 SN  - 2522-5839
 UR  - https://doi.org/10.1038/s42256-021-00439-3
 DO  - 10.1038/s42256-021-00439-3
-ID  - Sun2022
-ER  -     
+ID  - Sun2022   
 ```
        
        
