@@ -28,13 +28,13 @@ Each pixel in the force prediction map has three values that indicate the force 
 - 3D Printer: [Formlabs Form 3](https://formlabs.com/eu/3d-printers/form-3/)
 - 3D Printing Material: [Tough Resin FLTOTL05](https://formlabs.com/store/tough-2000-resin/). *Note: The material is updated.*
 - Mold Design: 
- -[Mold 1](Solidworks/Elastomer_Mold1_In_Fingerprint_NailFlat.SLDPRT)
- -[Mold 2](Solidworks/Elastomer_Mold2_Out1.SLDPRT)
- -[Mold 3](Solidworks/Elastomer_Mold2_Out2.SLDPRT)
+  - [Mold 1](Solidworks/Elastomer_Mold1_In_Fingerprint_NailFlat.SLDPRT)
+  - [Mold 2](Solidworks/Elastomer_Mold2_Out1.SLDPRT)
+  - [Mold 3](Solidworks/Elastomer_Mold2_Out2.SLDPRT)
 - Elastomer Material:
- - [EcoFlex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)
- - [Aluminum Powder 65 Micrometer, 99% Pure](https://www.amazon.de/Aluminumpulver-Aluminium-Pulver-Alupulver-Zus%C3%A4tze/dp/B06WRTGP2Y)
- - [Aluminum Flake 75 Micrometer](https://www.metallpulver24.de/de/aluminiumpulver-flaky-silber.html)
+  - [EcoFlex 00-30](https://www.smooth-on.com/products/ecoflex-00-30/)
+  - [Aluminum Powder 65 Micrometer, 99% Pure](https://www.amazon.de/Aluminumpulver-Aluminium-Pulver-Alupulver-Zus%C3%A4tze/dp/B06WRTGP2Y)
+  - [Aluminum Flake 75 Micrometer](https://www.metallpulver24.de/de/aluminiumpulver-flaky-silber.html)
 - [Vacuum Chamber VP1100, 5 Pa](https://www.silikonfabrik.de/vakuumtechnik/komplettsysteme/vakuum-komplettsystem-vks27/vp1200-vakuumkammer-und-pumpe.html). *Note: The Pump is updated.*
       
 ### Imaging System
