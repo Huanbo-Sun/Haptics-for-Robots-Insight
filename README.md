@@ -78,7 +78,7 @@ We use a LED ring and a collimator to create structured light. The structured li
 
 ### DAQ
 - [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
-- [Python Code runs in Raspberry Pi](Code/)
+- [Python Code Runs in Raspberry Pi](Code/Python-Rasberry.md)
 
 ## Testbed
 ### Linear Guide
