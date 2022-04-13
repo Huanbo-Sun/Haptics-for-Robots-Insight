@@ -69,8 +69,9 @@ Each pixel in the force prediction map has three values that indicate the force 
 ## Data Processing
        
 # Citation
+Please use the following citation if you make use of our work:
+## BibTex
 ``` citation
-BibTex:
 @article{Insight,
   title = {A soft thumb-sized vision-based sensor with accurate all-round force perception},
   author = {Sun, Huanbo and Kuchenbecker, Katherine J. and Martius, Georg},
@@ -83,8 +84,9 @@ BibTex:
   url = {https://rdcu.be/cHCl9},
   month_numeric = {2}
   } 
-       
-RIS:
+```
+### RIS:
+``` citation
 TY  - JOUR
 AU  - Sun, Huanbo
 AU  - Kuchenbecker, Katherine J.
@@ -102,7 +104,6 @@ UR  - https://doi.org/10.1038/s42256-021-00439-3
 DO  - 10.1038/s42256-021-00439-3
 ID  - Sun2022
 ER  -     
-       
 ```
        
        
